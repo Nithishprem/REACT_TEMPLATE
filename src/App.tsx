@@ -5,6 +5,7 @@ import ClickCounter from './ClickCounter'
 
 export const App = () => {
   const name = 'Nithish'
+
   return (
     <>
       <h1>
