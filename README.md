@@ -4,7 +4,7 @@ React project template for building react apps with out tools like create-react-
 
 build uisng wepack and babel tools
 
-uses es-lint for linint error
+uses es-lint for lintint errors
 
 uses prettier for code formatting
 
